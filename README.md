@@ -1,2 +1,4 @@
-# map-reduce-combiner-python
-A MapReduce imitation from scratch
+# MapReduce Implementation in Python
+> A MapReduce imitation from scratch implemented in Python.
+
+
